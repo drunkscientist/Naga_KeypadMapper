@@ -26,7 +26,7 @@ const char *devices[][2] = {
         {"/dev/input/by-id/usb-Razer_Razer_Naga_Epic-if01-event-kbd",        "/dev/input/by-id/usb-Razer_Razer_Naga_Epic-event-mouse"},       // NAGA EPIC
         {"/dev/input/by-id/usb-Razer_Razer_Naga_2014-if02-event-kbd",        "/dev/input/by-id/usb-Razer_Razer_Naga_2014-event-mouse"},       // NAGA 2014
         {"/dev/input/by-id/usb-Razer_Razer_Naga-if01-event-kbd",             "/dev/input/by-id/usb-Razer_Razer_Naga-event-mouse"},            // NAGA MOLTEN
-        {"/dev/input/by-id/usb-Razer_Razer_Naga_Epic_Chroma-if01-event-kbd", "/dev/input/by-id/usb-Razer_Razer_Naga_Epic_Chroma-event-mouse"} // NAGA EPIC CHROMA
+        {"/dev/input/by-id/usb-Razer_Razer_Naga_Epic_Chroma_Dock-if01-event-kbd", "/dev/input/by-id/usb-Razer_Razer_Naga_Epic_Chroma_Dock-event-mouse"} // NAGA EPIC CHROMA
 };
 
 class NagaDaemon {
